@@ -1,0 +1,39 @@
+body{
+    font-family: 'Rubik', sans-serif;
+}
+
+.pfp{
+    border: 5px solid lightblue;
+    border-radius: 50%;
+    /* height: 150px;
+    width: 150px; */
+}
+
+h1{
+    color: lightblue;
+    font-size: 50pt;
+    font-family: 'Lobster', cursive;
+    margin: 2px;
+}
+
+.name{
+    margin: 0px;
+    font-size: 18px;
+}
+
+h2{
+    font-weight: 300;
+    color: lightblue;
+    padding-top: 15px;
+}
+
+.btn{
+    background-color: lightblue;
+    width: 200px;
+    height: 35px;
+    border: none;
+}
+
+.center{
+    text-align: center;
+}
